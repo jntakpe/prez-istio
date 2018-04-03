@@ -1,4 +1,4 @@
-With microservices architecture your app needs to :
+## Microservice application requirements
 
 * Manage connection between services
 * Retry requests when failure occurs

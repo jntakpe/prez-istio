@@ -52,6 +52,15 @@ section.has-dark-background {
       padding-right: 1vw;
     }
   }
+
+  h1 {
+    background: linear-gradient(to left, $warn_start, $warn_end) repeat-x 0 1.16em;
+  }
+
+  h2 {
+    background: linear-gradient(to left, $aux_start, $aux_end) repeat-x 0 1.16em;
+  }
+
 }
 
 // Theme template ------------------------------
