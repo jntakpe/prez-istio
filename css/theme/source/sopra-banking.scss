@@ -45,15 +45,12 @@ section.has-dark-background {
     background: linear-gradient(to left, $main_start, $main_end);
 
     img.logo {
-      padding-left: 1vw;
-
-      height: 4vh;
+      padding: 0.2vh 1vw 0.2vw;
+      height: 3vh;
     }
-
     .author {
       padding-right: 1vw;
     }
-
   }
 }
 

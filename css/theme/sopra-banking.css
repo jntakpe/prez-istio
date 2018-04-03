@@ -14,8 +14,9 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   font-size: 1em;
   background: linear-gradient(to left, #7B2C9F, #FA1E46); }
   .reveal .header img.logo {
-    padding-left: 1vw;
-    height: 4vh; }
+      padding: 0.2vh 1vw 0.2vw;
+      height: 3vh;
+  }
   .reveal .header .author {
     padding-right: 1vw; }
 
