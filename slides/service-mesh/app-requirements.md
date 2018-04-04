@@ -1,4 +1,4 @@
-## Microservice application requirements
+## Microservice application challenges
 
 * Manage connection between services
 * Retry requests when failure occurs
@@ -7,4 +7,3 @@
 * Monitor traffic between services
 * Trace request with correlation ids
 * Secure connection (TLS)
-* ...
