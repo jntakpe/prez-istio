@@ -1,5 +1,12 @@
 ## Kubernetes cluster resiliency
 
+Start Kafka and microservices using :
+
+```bash
+./poc-infra.sh
+./poc-microservices.sh
+```
+
 Check that applications are available then replace *tpp-management* with a faulty version.
 
 ```bash

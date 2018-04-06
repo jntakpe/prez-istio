@@ -43,6 +43,7 @@ section.has-dark-background {
     left: 0;
     font-size: $heading4Size;
     background: linear-gradient(to left, $main_start, $main_end);
+    padding-top: 0.5vh;
 
     img.logo {
       padding: 0.2vh 1vw 0.2vw;

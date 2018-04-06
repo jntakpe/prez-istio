@@ -3,7 +3,8 @@
 Initialize configuration :
 
 ```bash
-sh ./update-ip.sh
+./minikube-istio.sh
+./update-ip.sh
 kubectl apply -f config-map.yml
 ```
 
